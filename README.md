@@ -1,4 +1,4 @@
-# Stock-Search
+# Stock Rank
 ## Description
 This is a C++ console application that analyzes stock data from the Dow 30 index and yields the top best (or worst) performing days for a selected criteria. It incorporates 5 years of market data, totalling to over 260,000 data points.
 
